@@ -50,9 +50,6 @@
 </template>
 
 <script setup>
-import SnapchatHeader from './SnapchatHeader.vue';
-import PasswordForm from './passwordForm.vue';
-import PhishingEducation from './phishingEducation.vue';
 
 const isPhished = ref(false);
 
